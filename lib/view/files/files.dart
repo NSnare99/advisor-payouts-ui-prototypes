@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:typed_data';
 import 'dart:io' as io;
-
+ 
 import 'package:amplify_flutter/amplify_flutter.dart';
 import 'package:base/models/User.dart';
 import 'package:base/utilities/extensions/string.dart';
