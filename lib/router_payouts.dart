@@ -22,6 +22,7 @@ const CustomNavigationDestination payoutsHome = CustomNavigationDestination(
   route: '/payouts',
 );
 
+
 List<CustomNavigationDestination> payoutsDestinations = [
   home,
   payoutsHome,
